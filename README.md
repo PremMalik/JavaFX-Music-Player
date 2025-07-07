@@ -2,6 +2,8 @@
 
 Music player built with JavaFX.
 Supports MP3, WAV, and M4A formats. Built for local playback with a clean UI and smooth controls.
+
+![Music-Player](https://github.com/user-attachments/assets/a7ebccab-8506-47bb-9d6a-f635bab90c79)
 ---
 ## 🚀 Features
 
